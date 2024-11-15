@@ -1,0 +1,2 @@
+# Application-of-region-based-video-surveillance-in-smart-cities-using-deep-learning.
+: Developed a deep learning-based video surveillance system for  real-time traffic management in smart cities. Utilized image processing  techniques in MATLAB to capture and analyze traffic footage from multiple  lanes, automatically counting vehicles and dynamically adjusting traffic signals  based on congestion levels. 
